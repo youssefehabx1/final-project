@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pic-1{
+    margin-left: 1000px;
+    position:absolute;
+}
+mark{
+    background-color: yellow;
+}
+p{
+    font-size: larger;
+    margin-left: 10px;
+}
+h1{
+    margin-left: 10px;
+}
+li{
+    margin-left: 10px;
+    font-size: larger;
+}
+.h1-i{
+    display: flex;
+    align-items: center;
+}
+#instagram{
+    margin-left: 1000px;
+}
+#face-book{
+    margin-left: 10px;
+}
+#My-project{
+    margin-top: 50px;
+    margin-left: 600px;
+}
+#btn{
+    margin-left: 650px;
+    margin-top: 30px;
+}
+#click-to-see{
+    text-decoration: none;
+}
+#codding-is-future{
+    width: 60%;
+}
+.why-i-see-it{
+    width: 60%;
+}
+.python{
+    width: 60%;
+}

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 120px;
+    display: flex;
+}
+h1{
+    margin-left: 540px;
+    display: flex;
+}
+button a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+#btn{
+    margin-left: 580px;
+}
+#vipper{
+    margin-left:450px ;
+}
+#Xo{
+    margin-left: 580px;
+}
